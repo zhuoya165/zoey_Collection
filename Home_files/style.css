@@ -1055,7 +1055,7 @@ picture img {
 
 .phone-slider-title {
     font-size: 30px;
-    padding-bottom: 3.25rem;
+    padding-bottom: 2.25rem;
 }
 
 .phone-slider-title .t-l h3 {
@@ -2567,7 +2567,7 @@ h5.mt-0 {
         padding: 0;
     }
     .banner .right-box-banner {
-        /* margin-bottom: 80px; */
+        margin-bottom: 60px;
     }
     .banner {
         padding-bottom: 0;
