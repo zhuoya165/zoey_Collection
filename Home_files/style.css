@@ -746,7 +746,7 @@ picture img {
 .phone-work-me p:first-child {
     font-size: 26px;
     color: #7a838c;
-    padding-bottom: 40px;
+/*    padding-bottom: 40px;*/
 }
 .scroll2 {
     display: none;
@@ -764,11 +764,11 @@ picture img {
 .phone-work-inner h3 {
     font-size: 28x;
     font-weight: normal;
-    padding-bottom: 50px;
+    padding-bottom: 35px;
 }
 
 .phone-work-me {
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 
 .phone-work-box h3 {
@@ -781,7 +781,7 @@ picture img {
     background: #cb9e82;
     display: block;
     margin: 0 auto;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .phone-work-box .box p {
@@ -790,7 +790,7 @@ picture img {
 }
 
 .phone-work-box .box {
-    margin-bottom: 140px;
+    margin-bottom: 60px;
 }
 
 .phone-work-box .box .top p:first-child {
@@ -801,7 +801,7 @@ picture img {
 .phone-work-box .box .box-title {
     font-size: 22px;
     color: #373f48;
-    padding-bottom: 10px;
+/*    padding-bottom: 10px;*/
 }
 
 
@@ -1187,7 +1187,7 @@ picture img {
 }
 
 .more-2 {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     position: relative;
 }
 
@@ -1227,7 +1227,7 @@ picture img {
 
 .phone-footer-list div,
 .contact .bottom .bottom-2 {
-    width: 134px;
+    width: 90px;
     height: 2px;
     background: #373f48;
     display: block;
